@@ -27,22 +27,20 @@
     <img src="https://th.bing.com/th/id/R.ebf90fd1be02bf7c8c6ef1b73dd5c000?rik=ZfVX38P9ilZNlA&riu=http%3a%2f%2fwww.logotypes101.com%2flogos%2f768%2f257CBC3E180789EEB3B468BEC3215483%2fMySQL.png&ehk=heYg4gWopeo6Rgqvn9036b0EUAfJdQZSCYkvdGmdNjM%3d&risl=&pid=ImgRaw&r=0" alt="mysql" height="30" width="30"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" alt="powerbi" height="30" width="30"/>
+    <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.jpg" alt="powerbi" height="30" width="30"/>
   </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" height="30" width="30"/>
-  </a>
+  <a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" height="30" width="30"/>
+    <img src="https://www.kindpng.com/picc/m/159-1595924_python-logo-clipart-easy-pandas-python-logo-hd.png" alt="pandas" height="30" width="30"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="30" width="30"/>
+    <img src="https://th.bing.com/th/id/OIP.EL53grMWpvtHsCJaemBt_QAAAA?rs=1&pid=ImgDetMain" alt="scikit_learn" height="30" width="30"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="30" width="30"/>
+    <img src="https://th.bing.com/th/id/OIP.k9s_go_-RVs_1ms2W52K5gAAAA?w=285&h=258&rs=1&pid=ImgDetMain" alt="seaborn" height="30" width="30"/>
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="30" width="30"/>
+    <img src="https://th.bing.com/th/id/OIP.7FGfxfnvLhCv4zAPYTn90wHaFS?rs=1&pid=ImgDetMain" alt="tensorflow" height="30" width="30"/>
   </a>
   <a>
     <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
