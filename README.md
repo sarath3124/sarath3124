@@ -47,9 +47,9 @@
     <img src="https://th.bing.com/th/id/OIP.ibQPA-rdk8i4DrME_fOp4gHaE8?rs=1&pid=ImgDetMain" alt="excel" height="30" width="30"/>
   </a>
 </p>
-<p align="left">
-  <!-- Your existing code for Python, MySQL, Tableau, etc. -->
+<!-- Existing HTML Code -->
 
-  <!-- Add a new image for the theme at the end -->
-  <img src="https://th.bing.com/th/id/R.83ffe389eb0b4487c245e7d51baf4f7f?rik=rQvSd90RwctLOg&riu=http%3a%2f%2fwww.finereport.com%2fen%2fwp-content%2fthemes%2fblogs%2fimages%2f2019051608A.gif&ehk=kAHnc%2fcYfG9AndCeCNbazBIeSF246qoGc35qp3BUvWw%3d&risl=&pid=ImgRaw&r=0" alt="theme" height="30" width="30"/>
-</p>
+<img align="left" alt="Profile Photo" width="200" height="300" src="https://th.bing.com/th/id/R.83ffe389eb0b4487c245e7d51baf4f7f?rik=rQvSd90RwctLOg&riu=http%3a%2f%2fwww.finereport.com%2fen%2fwp-content%2fthemes%2fblogs%2fimages%2f2019051608A.gif&ehk=kAHnc%2fcYfG9AndCeCNbazBIeSF246qoGc35qp3BUvWw%3d&risl=&pid=ImgRaw&r=0">
+
+<!-- Additional HTML Code -->
+
