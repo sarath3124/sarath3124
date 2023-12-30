@@ -1,8 +1,5 @@
-
-
 <p align="center">
-  <img src="![image](https://thumbs.dreamstime.com/b/data-analysis-business-marketing-analytics-concept-big-data-internet-marketing-flat-design-vector-line-illustration-data-114218337.jpg)
-" alt="Banner">
+  <img src="https://as2.ftcdn.net/v2/jpg/05/02/38/03/1000_F_502380387_l8eW7f0bnpSFH5Fg0LFXerKnFhfHvlt4.jpg" alt="Banner">
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Adigarla Sarath Kumar</h1>
