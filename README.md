@@ -1,6 +1,7 @@
 <h1 align="center">Hi there! 👋 A.Sarath Kumar</h1>
 <h3 align="center">Explorer of New Worlds: Data Analyst, Movie Buff, and Web Series Enthusiast from India 😄</h3>
-<img align="right" alt="Arthur Morgan" width="400" src="https://tenor.com/view/thats-nice-gif-25058983">
+<img align="right" alt="Arthur Morgan" width="400" src="https://media.tenor.com/images/e5e50c15c57d3df8d39dbef3dfbe46f8/tenor.gif">
+
 
 
 - 🌱 Currently immersed in the world of *Machine Learning*. Excited to learn new jutsu in the data world! 🔍📊
