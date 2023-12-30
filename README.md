@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://th.bing.com/th/id/R.83ffe389eb0b4487c245e7d51baf4f7f?rik=rQvSd90RwctLOg&riu=http%3a%2f%2fwww.finereport.com%2fen%2fwp-content%2fthemes%2fblogs%2fimages%2f2019051608A.gif&ehk=kAHnc%2fcYfG9AndCeCNbazBIeSF246qoGc35qp3BUvWw%3d&risl=&pid=ImgRaw&r=0" alt="Banner">
+  <img src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif" alt="Banner">
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Adigarla Sarath Kumar</h1>
