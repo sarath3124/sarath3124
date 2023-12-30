@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there! 👋 I'm Adigarla Sarath Kumar</h1>
 <h3 align="center">Explorer of New Worlds: Data Analyst, Movie Buff, and Web Series Enthusiast from India 😄</h3>
-<img align="right" alt="Sigma" height="250" width="400" src="https://media1.tenor.com/m/Q1i2Zd_6ZX8AAAAC/thats-nice.gif">
+<img align="right" alt="Sigma" height="300" width="400" src="https://media1.tenor.com/m/Q1i2Zd_6ZX8AAAAC/thats-nice.gif">
 
 -- 📊 Currently exploring the fascinating world of Data Analytics. Eager to uncover insights and work with data to enhance my skills in the data realm! 📈💻
 
