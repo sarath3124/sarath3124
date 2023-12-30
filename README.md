@@ -51,5 +51,8 @@
     <img src="https://th.bing.com/th/id/OIP.ibQPA-rdk8i4DrME_fOp4gHaE8?rs=1&pid=ImgDetMain" alt="excel" height="30" width="30"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif" alt="Banner">
+</p>
 
 
