@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif" alt="Banner">
-</p>
+
 
 <h1 align="center">Hi there! 👋 I'm Sarath Kumar Adigarla</h1>
 <h3 align="center">Explorer of New Worlds: Data Analyst, Movie Buff, and Web Series Enthusiast from India 😄</h3>
