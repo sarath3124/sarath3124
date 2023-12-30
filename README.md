@@ -46,6 +46,6 @@
   </a>
   <a>
     <a href="https://wwww.excel.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/excel/excel-icon.svg" alt="excel" height="30" width="30"/>
+    <img src="https://th.bing.com/th/id/OIP.ibQPA-rdk8i4DrME_fOp4gHaE8?rs=1&pid=ImgDetMain" alt="excel" height="30" width="30"/>
   </a>
 </p>
