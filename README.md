@@ -1,18 +1,18 @@
 <h1 align="center">Hi there! 👋 I'm Adigarla Sarath Kumar</h1>
-<h3 align="center">Passionate Data Analyst and Anime Enthusiast from India 😄</h3>
-<img align="right" alt="Kakashi Hatake" width="400" src="https://media1.tenor.com/m/Q1i2Zd_6ZX8AAAAC/thats-nice.gif">
+<h3 align="center">Explorer of New Worlds: Data Analyst, Movie Buff, and Web Series Enthusiast from India 😄</h3>
+<img align="right" alt="Sigma" width="400" src="https://media1.tenor.com/m/Q1i2Zd_6ZX8AAAAC/thats-nice.gif">
 
-- 🌱 Currently immersed in the world of *Machine Learning*. Excited to learn new jutsu in the data world! 🔍📊
+- 📊 Currently exploring the fascinating world of Data Analytics. Eager to uncover insights and work with data to enhance my skills in the data realm! 📈💻
   
-- 💬 Let's chat about *Data Analysis, Tableau, and Anime recommendations!* Feel free to drop some anime suggestions! 🎉📺
+- 
+💬 Let's delve into conversations about Data Analysis and Power BI, and share thoughts on your favorite movies! Feel free to provide your Power BI insights or recommend some great movies! 🚀🎬
 
-- 📫 Reach me at *jaikirandbz@gmail.com*. Whether it's about data or discussing the latest anime episodes, I'm here! 📧😉
-
-- ⚡ Fun fact: **I'm a proud Anime and Manhwa lover 🤩**. From Hokage duties to unraveling data mysteries, I love a good adventure! 🗡📈
+- 📫 You can reach out to me at sarathkumar256789@gmail.ccom for any inquiries, be it related to the realm of data or for engaging discussions about the latest cinematic releases. I am here to respond promptly. 🎥📧
+- Data analysis: where every dataset is a script, and every insight, a cinematic revelation. 📊🎥 #DataStorytelling"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/jaikirandbz" target="_blank">
+  <a href="www.linkedin.com/in/sarath-kumar-adigarla-85b20b266" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="jaikirandbz LinkedIn" height="30" width="40" />
   </a>
 </p>
