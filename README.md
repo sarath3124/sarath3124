@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Pampana Jai Kiran</h1>
 <h3 align="center">Explorer of New Worlds: Data Analyst, Movie Buff, and Web Series Enthusiast from India 😄</h3>
-<img align="right" alt="Arthur Morgan" width="400" src="file:///C:/Users/sarat/OneDrive/Desktop/download%20(1).jpeg">
+<img align="right" alt="Arthur Morgan" width="400" src="https://www.img2go.com/ai-creator-studio#j=221cfc7b-0162-4752-b22e-af9d74b53020">
 
 
 - 🌱 Currently immersed in the world of *Machine Learning*. Excited to learn new jutsu in the data world! 🔍📊
