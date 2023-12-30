@@ -21,10 +21,10 @@
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="30" width="30"/>
+    <img src="https://pluspng.com/img-png/python-logo-png-open-2000.png" alt="python" height="30" width="30"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="30" width="30"/>
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="mysql" height="30" width="30"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" alt="powerbi" height="30" width="30"/>
