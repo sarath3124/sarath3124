@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/sarath-kumar-adigarla-85b20b266" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="jaikirandbz LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/sarath-kumar-adigarla-85b20b266" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Sarath Kumar LinkedIn" height="30" width="40" />
   </a>
 </p>
 
