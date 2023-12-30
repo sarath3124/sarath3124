@@ -1,4 +1,4 @@
-<img alt="MasterHead" src="https://st3.depositphotos.com/3268541/17772/v/450/depositphotos_177727264-stock-illustration-data-analytics-concept-vector-line.jpg"
+[[MasterHead](![image](https://github.com/sarath3124/sarath3124/assets/136588898/29cc936d-ba8c-41e5-9e37-2f0d8cd38279))] 
 <h1 align="center">Hi there! 👋 I'm Adigarla Sarath Kumar</h1>
 <h3 align="center">Explorer of New Worlds: Data Analyst, Movie Buff, and Web Series Enthusiast from India 😄</h3>
 <img align="right" alt="Sigma" height="250" width="400" src="https://media1.tenor.com/m/Q1i2Zd_6ZX8AAAAC/thats-nice.gif">
