@@ -1,5 +1,4 @@
-[[MasterHead](https://as2.ftcdn.net/v2/jpg/05/02/38/03/1000_F_502380387_l8eW7f0bnpSFH5Fg0LFXerKnFhfHvlt4.jpg)]
-
+<img alt="MasterHead" src="https://as2.ftcdn.net/v2/jpg/05/02/38/03/1000_F_502380387_l8eW7f0bnpSFH5Fg0LFXerKnFhfHvlt4.jpg"
 <h1 align="center">Hi there! 👋 I'm Adigarla Sarath Kumar</h1>
 <h3 align="center">Explorer of New Worlds: Data Analyst, Movie Buff, and Web Series Enthusiast from India 😄</h3>
 <img align="right" alt="Sigma" height="250" width="400" src="https://media1.tenor.com/m/Q1i2Zd_6ZX8AAAAC/thats-nice.gif">
