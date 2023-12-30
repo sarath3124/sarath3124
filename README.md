@@ -44,4 +44,8 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="30" width="30"/>
   </a>
+  <a>
+    <a href="https://wwww.excel.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/excel/excel-icon.svg" alt="excel" height="30" width="30"/>
+  </a>
 </p>
