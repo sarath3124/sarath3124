@@ -1,5 +1,5 @@
-![download (1)](https://github.com/sarath3124/sarath3124/assets/136588898/10fa877a-0b6f-4265-b2f3-2e63d0df0a3d)<h1 align="center">Hi there! 👋 A.Sarath Kumar</h1>
-<h3 align="center">Explorer of New Worlds: Data Analyst, Movie Buff, and Web Series Enthusiast from India 😄</h3>
+<h1 align="center">Hi there! 👋 I'm Pampana Jai Kiran</h1>
+<h3 align="center">Passionate Data Analyst and Anime Enthusiast from India 😄</h3>
 <img align="right" alt="Kakashi Hatake" width="400" src="https://th.bing.com/th/id/OIP.puWhUdwFqhlKZYzUWtHBGgHaK9?rs=1&pid=ImgDetMain">
 
 - 🌱 Currently immersed in the world of *Machine Learning*. Excited to learn new jutsu in the data world! 🔍📊
