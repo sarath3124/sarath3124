@@ -45,7 +45,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="30" width="30"/>
   </a>
   <a>
-    <a href="https://wwww.excel.com" target="_blank" rel="noreferrer">
+    <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/OIP.ibQPA-rdk8i4DrME_fOp4gHaE8?rs=1&pid=ImgDetMain" alt="excel" height="30" width="30"/>
   </a>
 </p>
