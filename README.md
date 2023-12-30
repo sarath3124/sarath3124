@@ -24,7 +24,7 @@
     <img src="https://pluspng.com/img-png/python-logo-png-open-2000.png" alt="python" height="30" width="30"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="mysql" height="30" width="30"/>
+    <img src="https://th.bing.com/th/id/R.ebf90fd1be02bf7c8c6ef1b73dd5c000?rik=ZfVX38P9ilZNlA&riu=http%3a%2f%2fwww.logotypes101.com%2flogos%2f768%2f257CBC3E180789EEB3B468BEC3215483%2fMySQL.png&ehk=heYg4gWopeo6Rgqvn9036b0EUAfJdQZSCYkvdGmdNjM%3d&risl=&pid=ImgRaw&r=0" alt="mysql" height="30" width="30"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" alt="powerbi" height="30" width="30"/>
