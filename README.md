@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="![image](https://github.com/sarath3124/sarath3124/assets/136588898/81a7e63c-ecf3-4701-9bc1-a27e4388793d)
+  <img src="![image](https://thumbs.dreamstime.com/b/data-analysis-business-marketing-analytics-concept-big-data-internet-marketing-flat-design-vector-line-illustration-data-114218337.jpg)
 " alt="Banner">
 </p>
 
